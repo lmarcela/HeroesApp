@@ -1,7 +1,7 @@
 import React from "react";
 import { mount } from "enzyme";
 import "@testing-library/jest-dom";
-import { MemoryRouter, Router, Route } from "react-router-dom";
+import { MemoryRouter, Route } from "react-router-dom";
 import { HeroScreen } from "../../../components/heroes/HeroScreen";
 
 describe("Pruebas en <HeroScreen />", () => {
