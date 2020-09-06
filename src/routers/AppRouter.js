@@ -16,7 +16,7 @@ export const AppRouter = () => {
         <Switch>
           <PublicRoute
             exact
-            path="/login"
+            path="/HeroesApp/login"
             isAuthenticated={user.logged}
             component={LoginScreen}
           />
