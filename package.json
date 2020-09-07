@@ -1,5 +1,6 @@
 {
   "name": "heroes-app",
+  "homepage": "/HeroesApp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
